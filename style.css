@@ -1,0 +1,35 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    background-color: #F5F5F5;
+    background-color: #C0C0C0;
+}
+p{
+    font-size: 30px;
+    font-family: "Spicy Rice", serif;
+    color: white;
+    text-align: center;
+
+}
+body{
+    background-color: #f8f8ff;
+}
+img{
+    width: 800px;
+    height: 500px;
+    border-style: groove;
+    border-radius: 5cqmin;
+    border-color: black;
+}
+iframe{
+    margin: 0px 50px;
+    border-style: groove;
+    border-radius: 2cqmin;
+    border-color: black;
+}
+
+.header {
+    bottom: 0;
+    background: linear-gradient(gray	0%, #000 100%)
+}
+
